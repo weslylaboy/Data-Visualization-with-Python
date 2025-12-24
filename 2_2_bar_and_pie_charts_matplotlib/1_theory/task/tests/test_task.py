@@ -47,7 +47,17 @@ class PlotTestCase(PieTestMixin, TitleTestMixin):
     def test_2_2_pie_labels(self):
         self.checkPieLabels(self.fig.axes[0], expected_labels=self.aggregated_data["platform"].to_list())
 
-    def test_2_3_pie_colors(self):
+    def test_2_3_pie_numeric_labels(self):
+        expected_count = self.aggregated_data["count"]
+        expected_count = expected_count / sum(expected_count) * 100
+        expected_labels = expected_count.apply(lambda count: "%.2f%%" % count)  # noqa: UP031
+
+        self.checkPieNumericLabels(
+            self.fig.axes[0],
+            expected_labels=expected_labels.to_list(),
+        )
+
+    def test_2_4_pie_colors(self):
         self.checkPieColors(self.fig.axes[0], expected_colors=None)
 
     def test_3_title(self):

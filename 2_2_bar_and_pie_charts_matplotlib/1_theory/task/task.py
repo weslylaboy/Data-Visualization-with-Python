@@ -14,11 +14,8 @@ def plot(games: pd.DataFrame) -> plt.Figure:
     print(df.shape)
 
     fig, ax = plt.subplots()
-    ax.barh(data = df, y= 'platform', width= 'count',
-            color=[ 'grey', 'blue','green', 'cyan'])
-    ax.set_xlabel('Count')
-    ax.set_ylabel('Platform')
-    ax.set_title('Number of games per platform')
+    ax.pie(data = df, labels= 'platform', x= 'count',)
+
     fig.tight_layout()
     # plt.show()
     return fig
