@@ -33,3 +33,7 @@ def preprocess(data: pd.DataFrame) -> pd.DataFrame:
 
 def aggregate(games: pd.DataFrame) -> pd.DataFrame:
     return games["platform"].value_counts().reset_index()
+
+
+def filter_platforms(data: pd.DataFrame) -> pd.DataFrame:
+    return data[data["platform"].isin(["PS4", "XOne", "PC", "WiiU"])]

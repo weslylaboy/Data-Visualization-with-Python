@@ -14,5 +14,12 @@ files:
     visible: false
     is_binary: true
     learner_created: false
-status: Unchecked
-record: -1
+  - name: plot.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 24 Dec 2025 03:24:07 UTC"
+record: 23
