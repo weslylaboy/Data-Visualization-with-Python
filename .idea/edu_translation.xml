@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="structureTranslation">
+      <map>
+        <entry key="Spanish">
+          <value>
+            <map>
+              <entry key="1036749393" value="Intervalos (bins)" />
+              <entry key="1046191959" value="Personalización del gráfico de regresión. Parte 1" />
+              <entry key="1073624269" value="Transparencia y color" />
+              <entry key="1080034391" value="Base" />
+              <entry key="1084396581" value="Práctica  " />
+              <entry key="1118553547" value="Gráfico de dispersión con relplot" />
+              <entry key="1123427479" value="Impacto en diferentes campos" />
+              <entry key="1128632" value="Era moderna y oportunidades profesionales" />
+              <entry key="1163040023" value="Orden de grupos" />
+              <entry key="11879665" value="Comparación de categorías" />
+              <entry key="1193887620" value="Básico" />
+              <entry key="1197571844" value="Avanzado" />
+              <entry key="1200182641" value="Gráfico de histograma con displot" />
+              <entry key="1204810358" value="Gráfico circular" />
+              <entry key="1207044052" value="Distribución" />
+              <entry key="1209103598" value="Percentil" />
+              <entry key="1215257275" value="Comparando distribuciones" />
+              <entry key="1252667582" value="Datos" />
+              <entry key="1380675260" value="Tendencia" />
+              <entry key="1409960793" value="Métodos tempranos de visualización" />
+              <entry key="1419831012" value="Distribución de probabilidad. Parte #1" />
+              <entry key="1438684280" value="Gráficas de barras y circular - Matplotlib" />
+              <entry key="1443734429" value="Agrupación" />
+              <entry key="1451204475" value="Gráfico de dispersión" />
+              <entry key="1461045921" value="Gráficas de líneas y dispersión - Introducción" />
+              <entry key="1471268011" value="Encontrar gráficos con valores atípicos" />
+              <entry key="148276986" value="Avanzado" />
+              <entry key="149639149" value="Gráficas de barras y circular - Introducción" />
+              <entry key="1504484363" value="Personalización" />
+              <entry key="1525947340" value="Información del curso  " />
+              <entry key="156454335" value="Error común" />
+              <entry key="157576881" value="Resumen  " />
+              <entry key="1588119058" value="Distribución" />
+              <entry key="1594260074" value="Teoría  " />
+              <entry key="1600273902" value="Transparencia y color" />
+              <entry key="1632359904" value="Elegir los tipos de gráficos correctos" />
+              <entry key="1639155823" value="Por qué visualizamos datos" />
+              <entry key="1639341332" value="Teoría  " />
+              <entry key="1641058709" value="Personalización" />
+              <entry key="1642405267" value="Relación entre variables" />
+              <entry key="1642493958" value="Básico" />
+              <entry key="1667580130" value="Valores atípicos" />
+              <entry key="1748043745" value="Práctica  " />
+              <entry key="1767987511" value="Comparando distribuciones" />
+              <entry key="1781396806" value="Histogramas - Matplotlib" />
+              <entry key="1793561822" value="Toma de decisiones en la era digital" />
+              <entry key="1799616321" value="Rutas" />
+              <entry key="1816951869" value="Básico" />
+              <entry key="1845483848" value="Varios trazos" />
+              <entry key="1845491484" value="Teoría  " />
+              <entry key="1858744145" value="Práctica  " />
+              <entry key="1896361322" value="Democratización de los datos" />
+              <entry key="189861859" value="Estimador" />
+              <entry key="189986023" value="Gráfico de barras. Parte #2" />
+              <entry key="1912521809" value="Personalización" />
+              <entry key="1932906127" value="Gráficas de líneas y dispersión - Matplotlib" />
+              <entry key="1961347633" value="Teoría  " />
+              <entry key="1972659594" value="Base" />
+              <entry key="1988460215" value="Teoría  " />
+              <entry key="2002539321" value="Requisitos previos" />
+              <entry key="2024714663" value="Transición del papel a lo digital" />
+              <entry key="2029175497" value="Teoría  " />
+              <entry key="2029812770" value="Personalización del gráfico de regresión. Parte 2" />
+              <entry key="2045285293" value="Práctica  " />
+              <entry key="2066515606" value="Etiquetas numéricas" />
+              <entry key="2067521478" value="Distribución de probabilidad. Parte #1" />
+              <entry key="2070093098" value="Contenido" />
+              <entry key="2073882499" value="Gráfico de histograma" />
+              <entry key="2098640247" value="Leyenda" />
+              <entry key="2113404719" value="Elegir distribuciones sesgadas" />
+              <entry key="2127049185" value="Gráfico de barras. Parte #1" />
+              <entry key="2130571027" value="Explosión de datos y sobrecarga de información" />
+              <entry key="221959279" value="Proporciones de un todo" />
+              <entry key="270570560" value="Distribución de datos" />
+              <entry key="28290042" value="Gráfico de regresión con lmplot" />
+              <entry key="295599284" value="Por qué la visualización de datos importa hoy  " />
+              <entry key="303947205" value="Introducción a la visualización de datos" />
+              <entry key="325318948" value="Distribución" />
+              <entry key="330736776" value="Práctica" />
+              <entry key="346241052" value="Orden" />
+              <entry key="350388164" value="Histogramas - Seaborn" />
+              <entry key="372127667" value="Distribución de probabilidad. Parte #2" />
+              <entry key="411661040" value="Varios trazos. Intento #2" />
+              <entry key="423228484" value="Intervalos (bins). Parte #2" />
+              <entry key="441753515" value="Escala logarítmica" />
+              <entry key="445849631" value="Resumen  " />
+              <entry key="464828945" value="Percentil" />
+              <entry key="468034064" value="Gráfico de barras con catplot. Parte #1" />
+              <entry key="473721486" value="El poder de la visualización de datos  " />
+              <entry key="486811016" value="Histogramas - Introducción" />
+              <entry key="59460200" value="Resumen  " />
+              <entry key="606747298" value="Intervalos (bins). Parte #1" />
+              <entry key="649033906" value="Gráfico de regresión" />
+              <entry key="654070303" value="Gráficas de líneas y dispersión - Seaborn" />
+              <entry key="658639190" value="Hitos clave" />
+              <entry key="675957835" value="Base" />
+              <entry key="722887533" value="Gráfico de barras con catplot. Parte #2" />
+              <entry key="777637196" value="Gráficas de barras y circular - Seaborn" />
+              <entry key="783709912" value="Histogramas vs. Barras" />
+              <entry key="80279169" value="Práctica  " />
+              <entry key="825460612" value="Gráfico de líneas con relplot" />
+              <entry key="835433540" value="Ejemplos famosos" />
+              <entry key="847091957" value="Gráfico de líneas" />
+              <entry key="877275061" value="Estadística" />
+              <entry key="898594753" value="Escala logarítmica" />
+              <entry key="899761062" value="Gráfico de conteo con catplot" />
+              <entry key="900111376" value="Cambio a lo largo del tiempo" />
+              <entry key="935300782" value="Impacto de la capacidad de cómputo" />
+              <entry key="949946469" value="Personalización de gráfico de regresión" />
+              <entry key="976407953" value="Distribución de probabilidad. Parte #2" />
+              <entry key="980486835" value="Análisis de tendencias" />
+              <entry key="985606788" value="Evolución histórica de la visualización de datos  " />
+              <entry key="990185343" value="Avanzado" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Spanish" value="2480" />
+      </map>
+    </option>
+  </component>
+</project>

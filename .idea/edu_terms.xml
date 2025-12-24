@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="28290042">
+                <value>
+                  <list>
+                    <Term value="relplot" definition="`relplot` is a function in Seaborn used for plotting simple relational plots. It allows for common aggregations like calculating the mean, median, min, or max before plotting." />
+                    <Term value="lmplot" definition="`lmplot` is a function in Seaborn that plots data along with a linear regression model fit, which represents trends in the data." />
+                    <Term value="linear regression" definition="Linear regression is a method to find the best-fitting straight line through data by minimizing the squared errors between predicted and actual values." />
+                    <Term value="Linear regression" definition="Linear regression is a method to find the best-fitting straight line through data by minimizing the squared errors between predicted and actual values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="148276986">
+                <value>
+                  <list>
+                    <Term value="set_xticks" definition="In Matplotlib, the set_xticks method is used to set the positions of the tick marks along the x-axis, with an optional minor argument for minor ticks." />
+                    <Term value="tick_params" definition="In Matplotlib, the tick_params method is used to customize the appearance and placement of ticks, including enabling ticks on specific spines or axes and setting options like label alignment." />
+                    <Term value="text" definition="In Matplotlib, the text method is used to add a textual annotation to a specific position in the axes, allowing customization of alignment and formatting." />
+                    <Term value="get_legend_handles_labels" definition="In Matplotlib, the get_legend_handles_labels method retrieves the current handles and labels from the legend, useful for re-ordering or updating the legend." />
+                    <Term value="legend" definition="In Matplotlib, the legend method adds a legend to the axes using specified or retrieved handles and labels, allowing customization of its appearance and position." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="189861859">
+                <value>
+                  <list>
+                    <Term value="estimator" definition="The `estimator` argument in Seaborn controls how the data is aggregated. It can accept a callable function mapping a vector to scalar data or Numpy functions like `min`, `max`, `sum`, `mean`, or `median`. By default, `mean` is used as the estimator." />
+                    <Term value="error bar" definition="An `error bar` in Seaborn is a visual indicator used to represent the variation or uncertainty in a plotted value, showing how well the value represents underlying data points. It can be managed using the `errorbar` parameter." />
+                    <Term value="error bars" definition="An `error bar` in Seaborn is a visual indicator used to represent the variation or uncertainty in a plotted value, showing how well the value represents underlying data points. It can be managed using the `errorbar` parameter." />
+                    <Term value="groupby" definition="The `groupby` method in pandas is used to group data by certain conditions, allowing for aggregation and transformation operations, such as calculating the median or summing values for individual groups." />
+                    <Term value="median" definition="The `median` function in pandas calculates the middle value of a dataset, which evenly splits the data into two halves." />
+                    <Term value="sort_values" definition="The `sort_values` method in pandas is used to sort a Series or DataFrame by ascending or descending order of its values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="325318948">
+                <value>
+                  <list>
+                    <Term value="barh" definition="The barh function in Matplotlib is used to plot horizontal bar charts. It differs from the bar function, which plots vertical bar charts." />
+                    <Term value="fig.tight_layout" definition="The fig.tight_layout method in Matplotlib adjusts the padding between and around the elements of a figure to ensure proper spacing." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="346241052">
+                <value>
+                  <list>
+                    <Term value="`order` argument" definition="The `order` argument controls the display order of categories by accepting a list of category names that specifies the desired order." />
+                    <Term value="hidden `get_sorted_platforms` function" definition="A hidden function used to retrieve a list of platforms in ascending order for visualization." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="372127667">
+                <value>
+                  <list>
+                    <Term value="np.linspace" definition="The 'np.linspace' function in NumPy generates evenly spaced numbers over a specified interval." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="411661040">
+                <value>
+                  <list>
+                    <Term value="nunique" definition="The `nunique` method in pandas is used to calculate the number of unique values in a DataFrame column or Series." />
+                    <Term value="get_number_of_regions" definition="The `get_number_of_regions` function is used to calculate the number of regions, which can also be achieved manually by using the `nunique` method on the `region` column." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="464828945">
+                <value>
+                  <list>
+                    <Term value="describe" definition="In pandas, the describe method generates summary statistics for a DataFrame or Series, providing metrics such as count, mean, standard deviation, min, max, and percentiles." />
+                    <Term value="percentiles" definition="A percentile represents the value below which a given percentage of data points in a dataset fall." />
+                    <Term value="percentile" definition="A percentile represents the value below which a given percentage of data points in a dataset fall." />
+                    <Term value="quantile" definition="In pandas, the quantile method computes the value at a given quantile of the data, which can be used to convert a percentile (e.g., 95th percentile) into a corresponding threshold." />
+                    <Term value="displot" definition="In data visualization libraries like seaborn, displot is used to create distribution plots to visualize the distribution of a dataset." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="468034064">
+                <value>
+                  <list>
+                    <Term value="catplot" definition="A function from the Seaborn library used for creating various types of plots, such as scatter, bar, and more, among categorical data." />
+                    <Term value="filter_platforms" definition="A hidden function mentioned in the text designed to filter out older game platforms." />
+                    <Term value="isin" definition="A method in pandas used to filter data by checking if values in a column are present in a specified list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="606747298">
+                <value>
+                  <list>
+                    <Term value="logarithmic scale" definition="A logarithmic scale stretches the axis but does not modify bin sizes, which can lead to distorted visualizations." />
+                    <Term value="bin" definition="The divisions of data in a histogram, which can be configured by specifying the count or edges." />
+                    <Term value="bins" definition="The divisions of data in a histogram, which can be configured by specifying the count or edges." />
+                    <Term value="np.logspace" definition="A function in NumPy to generate logarithmically spaced values given start, stop, number of samples, and logarithmic base." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="649033906">
+                <value>
+                  <list>
+                    <Term value="linear regression" definition="Linear regression finds the best-fitting straight line through the data by minimizing the difference between predicted and actual values. This is done by minimizing the squared errors between the line and the data points. The equation of the line is: y = mx + b, where m is the slope and b is the intercept." />
+                    <Term value="Linear regression" definition="Linear regression finds the best-fitting straight line through the data by minimizing the difference between predicted and actual values. This is done by minimizing the squared errors between the line and the data points. The equation of the line is: y = mx + b, where m is the slope and b is the intercept." />
+                    <Term value="Matplotlib" definition="Matplotlib is a Python library for creating static, interactive, and animated visualizations. It allows building visualizations like scatter plots and regression lines." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="675957835">
+                <value>
+                  <list>
+                    <Term value="scatter trace" definition="A scatter trace is used to plot the actual data as grey with almost transparent points (alpha 0.05)." />
+                    <Term value="line trace" definition="A line trace is used to plot the approximated data with a navy color." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="722887533">
+                <value>
+                  <list>
+                    <Term value="line plot" definition="A line plot is used to display information as a series of points connected by straight lines. It is often used for visualizing trends over time with continuous variables." />
+                    <Term value="bar chart" definition="A bar chart is a graphical representation of data using bars of different heights or lengths to compare different categories of data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="877275061">
+                <value>
+                  <list>
+                    <Term value="stat" definition="In a count plot, 'stat' is a special argument that modifies the calculated statistics for the plot. It can be set to values such as 'count', 'proportion', 'percent', or 'probability' to adjust how the data is represented." />
+                    <Term value="count" definition="'count' is a value for the 'stat' argument in a count plot that represents the number of observations per category." />
+                    <Term value="proportion" definition="'proportion' is a value for the 'stat' argument in a count plot which normalizes the data so that all bars sum to 1." />
+                    <Term value="percent" definition="'percent' is a value for the 'stat' argument in a count plot which normalizes the data so that all bars sum to 100." />
+                    <Term value="probability" definition="'probability' is an alias for 'proportion' in the 'stat' argument of a count plot." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="899761062">
+                <value>
+                  <list>
+                    <Term value="catplot" definition="In Seaborn, 'catplot' is a universal function used to build almost any kind of categorical plot. It accepts arguments like 'data', 'x', 'y', and 'kind' to define the type of plot to be built." />
+                    <Term value="bar" definition="'bar' is a kind of categorical plot in Seaborn's 'catplot', used to create general-purpose bar charts." />
+                    <Term value="count" definition="'count' is a kind of categorical plot in Seaborn's 'catplot', used to create count plots where the y-axis represents the number of observations for each category." />
+                    <Term value="NaN values" definition="NaN values represent missing or undefined data in a dataset. They need to be dropped or handled during data preprocessing before analysis." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="976407953">
+                <value>
+                  <list>
+                    <Term value="stat=&quot;probability&quot;" definition="A parameter in Seaborn that normalizes the probability across all categories combined in a histogram." />
+                    <Term value="common_norm" definition="A parameter in Seaborn that, when set to False, ensures each group is normalized independently in a histogram." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="990185343">
+                <value>
+                  <list>
+                    <Term value="set_xlim" definition="A method in Matplotlib's Axes object used to limit the x-axis view to a specific interval." />
+                    <Term value="set_ylim" definition="A method in Matplotlib's Axes object used to limit the y-axis view to a specific interval." />
+                    <Term value="inset_axes" definition="A method in Matplotlib's Axes object to create inset axes, allowing a zoomed-in view of a certain area in a figure." />
+                    <Term value="indicate_inset_zoom" definition="A method in Matplotlib's Axes object used to visually connect the inset axes with the relevant area of the parent axes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1036749393">
+                <value>
+                  <list>
+                    <Term value="bins" definition="The number of intervals (or 'bins') used to divide the range of data in a histogram." />
+                    <Term value="bin" definition="The number of intervals (or 'bins') used to divide the range of data in a histogram." />
+                    <Term value="displot" definition="A Seaborn function used for visualizing data distributions by creating histograms or density plots." />
+                    <Term value="Sturges's rule" definition="A method for determining the appropriate number of bins for a histogram based on the size of the dataset." />
+                    <Term value="Freedman-Diaconis rule" definition="A rule used to calculate optimal bin width for a histogram, aiming to reveal data trends while minimizing noise." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1080034391">
+                <value>
+                  <list>
+                    <Term value="sns.lmplot" definition="A seaborn function used for creating a scatter plot with an optional regression line fit." />
+                    <Term value="alpha" definition="An argument used in plotting functions to control the transparency of plot elements, where 0 is completely transparent and 1 is opaque." />
+                    <Term value="line_kws" definition="A parameter in seaborn plotting functions, allowing customization of the appearance of the regression line." />
+                    <Term value="scatter_kws" definition="A parameter in seaborn plotting functions, allowing customization of the appearance of the scatter plot points." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1118553547">
+                <value>
+                  <list>
+                    <Term value="relplot" definition="In Seaborn, the 'relplot' function stands for 'relational plot' and can be used to plot both line and scatter plots." />
+                    <Term value="lmplot" definition="In Seaborn, the 'lmplot' function stands for 'linear model plot' and is used to plot regression lines." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1163040023">
+                <value>
+                  <list>
+                    <Term value="hue_order" definition="The `hue_order` argument is used to control the order of hue categories by accepting a collection of category names to define the desired display order." />
+                    <Term value="ordering" definition="The `order` argument is used to control the ordering of categories in a plot by accepting a collection of category names." />
+                    <Term value="order" definition="The `order` argument is used to control the ordering of categories in a plot by accepting a collection of category names." />
+                    <Term value="get_sorted_regions" definition="The `get_sorted_regions` function is a hidden function used to get a list of regions sorted in descending order." />
+                    <Term value="sort_values" definition="The `sort_values` method in pandas is used to sort a DataFrame or Series by values in ascending or descending order." />
+                    <Term value="sum" definition="The `sum` method in pandas is used to calculate the sum of a Series or DataFrame's values along a specified axis." />
+                    <Term value="index" definition="The `index` property in pandas is used to access the index labels of a Series or DataFrame." />
+                    <Term value="Index" definition="The `index` property in pandas is used to access the index labels of a Series or DataFrame." />
+                    <Term value="to_list" definition="The `to_list` method in pandas is used to convert an Index object to a Python list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1197571844">
+                <value>
+                  <list>
+                    <Term value="plt.subplots" definition="A Matplotlib function used to create multiple axes within a single figure. It supports parameters like `height_ratios` to set the relative heights of subplots." />
+                    <Term value="axvline" definition="A Matplotlib method for drawing a vertical line on an axes, customizable via parameters like color, linestyle, and width." />
+                    <Term value="text" definition="A Matplotlib method used to add text annotations to a plot, allowing positioning and styling using parameters like `x`, `y`, and horizontal alignment." />
+                    <Term value="set_ylim" definition="A Matplotlib axes method to set the limits of the y-axis, controlling the visible range of data in the plot." />
+                    <Term value="scatter" definition="A Matplotlib method for creating scatter plots, where data points are plotted using provided x and y coordinates." />
+                    <Term value="median" definition="A statistical operation commonly available in pandas to compute the middle value of a dataset." />
+                    <Term value="medians" definition="A statistical operation commonly available in pandas to compute the middle value of a dataset." />
+                    <Term value="get_legend_handles_labels" definition="A Matplotlib method for retrieving the current handles and labels for the legend, enabling custom modifications before display." />
+                    <Term value="suptitle" definition="A Matplotlib figure method used to add a central title spanning across all subplots of a figure." />
+                    <Term value="spines" definition="A property of Matplotlib axes that allows manipulation of a plot's borders, such as hiding or styling specific edges." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1200182641">
+                <value>
+                  <list>
+                    <Term value="displot" definition="A function in Seaborn used to visualize distributions. It accepts the argument 'kind' to define the type of distribution, with 'hist' as the default value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1209103598">
+                <value>
+                  <list>
+                    <Term value="percentiles" definition="A percentile represents the value below which a given percentage of data points in a dataset falls." />
+                    <Term value="percentile" definition="A percentile represents the value below which a given percentage of data points in a dataset falls." />
+                    <Term value="quantile" definition="In data analysis, a quantile is calculated to represent a specific proportion of the dataset, obtained by dividing a percentile by 100. For example, the 95th percentile corresponds to a quantile of 0.95." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1215257275">
+                <value>
+                  <list>
+                    <Term value="pandas.Series.isin" definition="The pandas.Series.isin method is used in pandas to filter a DataFrame by selecting rows where a column’s values are in a specific list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1419831012">
+                <value>
+                  <list>
+                    <Term value="normalize histograms" definition="The process of adjusting histograms to display proportions or probabilities instead of raw counts to address differences in sample size." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1451204475">
+                <value>
+                  <list>
+                    <Term value="scatter" definition="A Matplotlib function that creates scatter plots to visualize the relationship between two variables." />
+                    <Term value="plot" definition="A Matplotlib function used for creating line plots to illustrate trends or patterns in data." />
+                    <Term value="plots" definition="A Matplotlib function used for creating line plots to illustrate trends or patterns in data." />
+                    <Term value="plotting" definition="A Matplotlib function used for creating line plots to illustrate trends or patterns in data." />
+                    <Term value="data" definition="An optional argument in Matplotlib plotting functions that specifies the input data structure (e.g., Pandas DataFrame or mapping) to be visualized." />
+                    <Term value="x" definition="An argument in Matplotlib plotting functions that specifies the name of the column to visualize on the x-axis." />
+                    <Term value="y" definition="An argument in Matplotlib plotting functions that specifies the name of the column to visualize on the y-axis." />
+                    <Term value="Figure" definition="A Matplotlib object that acts as the container for all plot elements, including Axes." />
+                    <Term value="figure" definition="A Matplotlib object that acts as the container for all plot elements, including Axes." />
+                    <Term value="Axes" definition="A Matplotlib object contained within a Figure that represents an area where data is plotted. Axes can contain multiple Axis objects." />
+                    <Term value="axes" definition="A Matplotlib object contained within a Figure that represents an area where data is plotted. Axes can contain multiple Axis objects." />
+                    <Term value="Axis" definition="A Matplotlib object contained within a Figure that represents an area where data is plotted. Axes can contain multiple Axis objects." />
+                    <Term value="Axes" definition="An object within Matplotlib Axes that represents a single coordinate axis, such as the x-axis or y-axis." />
+                    <Term value="axes" definition="An object within Matplotlib Axes that represents a single coordinate axis, such as the x-axis or y-axis." />
+                    <Term value="Axis" definition="An object within Matplotlib Axes that represents a single coordinate axis, such as the x-axis or y-axis." />
+                    <Term value="subplots" definition="A Matplotlib function used to create a Figure and one or multiple Axes objects simultaneously." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1641058709">
+                <value>
+                  <list>
+                    <Term value="ax.set_xticks" definition="A method in Matplotlib used to set the positions where the ticks should be located on the x-axis. It can also accept a second argument to specify the labels for these ticks." />
+                    <Term value="set_xlabel" definition="A method in Matplotlib used to set a label for the x-axis of a plot." />
+                    <Term value="set_ylabel" definition="A method in Matplotlib used to set a label for the y-axis of a plot." />
+                    <Term value="set_title" definition="A method in Matplotlib used to set the title for a figure or plot." />
+                    <Term value="tight_layout" definition="A method in Matplotlib used to automatically adjust the subplot parameters to give specified padding, ensuring the layout fits within the figure area." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1767987511">
+                <value>
+                  <list>
+                    <Term value="boolean indexing" definition="A method in programming, especially in data manipulation libraries, to filter data by applying logical conditions and keeping only rows that meet these conditions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1799616321">
+                <value>
+                  <list>
+                    <Term value="Seaborn" definition="Seaborn is a library for data visualization that offers a simpler API and enables you to create attractive charts with minimal effort." />
+                    <Term value="Matplotlib" definition="Matplotlib is a more powerful and flexible library for data visualization, allowing you to create virtually any type of chart with fine-grained control over every element." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2002539321">
+                <value>
+                  <list>
+                    <Term value="Pandas" definition="Pandas is a library in Python used for working with data, commonly used in data science for data processing and manipulation." />
+                    <Term value="variables" definition="In programming, Variables are used to store data that can be used and modified throughout the code." />
+                    <Term value="loops" definition="Loops in programming are constructs that allow repetitive execution of a block of code until a specific condition is met." />
+                    <Term value="functions" definition="Functions in Python are reusable blocks of code designed to perform a specific task, which can take inputs and return outputs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2029812770">
+                <value>
+                  <list>
+                    <Term value="set_xlabel" definition="A method in Matplotlib to set the label for the x-axis of a figure." />
+                    <Term value="set_ylabel" definition="A method in Matplotlib to set the label for the y-axis of a figure." />
+                    <Term value="set_xticks" definition="A method in Matplotlib to manually set the tick positions on the x-axis." />
+                    <Term value="set_yticks" definition="A method in Matplotlib to manually set the tick positions on the y-axis." />
+                    <Term value="set_xlim" definition="A method in Matplotlib to set the display range for the x-axis." />
+                    <Term value="set_ylim" definition="A method in Matplotlib to set the display range for the y-axis." />
+                    <Term value="spines" definition="The lines that outline a Matplotlib figure. These include 'top', 'bottom', 'left', and 'right'." />
+                    <Term value="Spine" definition="The lines that outline a Matplotlib figure. These include 'top', 'bottom', 'left', and 'right'." />
+                    <Term value="set_visible" definition="A method in Matplotlib used to control the visibility of elements, such as figure spines." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2066515606">
+                <value>
+                  <list>
+                    <Term value="format string" definition="A format string in Python specifies how data should be presented. For example, `%.1f` rounds a floating-point number to one decimal place, and `%%` displays a percentage sign." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2073882499">
+                <value>
+                  <list>
+                    <Term value="hist" definition="In Matplotlib, the `hist` function is used to visualize distributions. It takes arguments like `x` for the data to be plotted and `data` for the dataset being referred to." />
+                    <Term value="global_sales" definition="A column in a dataset representing the worldwide sales of video games." />
+                    <Term value="user_score" definition="A column in the dataset indicating the user rating score for a video game. It is preprocessed by converting values to float and removing undecided scores marked as `tbd`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2098640247">
+                <value>
+                  <list>
+                    <Term value="legend" definition="In Matplotlib, the `ax.legend` method is used to add a legend to the figure to differentiate between traces or elements in the plot." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2127049185">
+                <value>
+                  <list>
+                    <Term value="value_counts" definition="The 'value_counts' method in pandas is used to calculate the frequency of unique values in a column, such as the number of rows for each platform." />
+                    <Term value="reset_index" definition="The 'reset_index' method in pandas converts a Series (like value_counts) into a DataFrame by resetting the index." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="124" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

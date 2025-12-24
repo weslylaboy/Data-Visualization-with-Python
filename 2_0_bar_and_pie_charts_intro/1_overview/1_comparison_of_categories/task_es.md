@@ -1,0 +1,6 @@
+# Comparación de categorías
+
+Al trabajar con variables discretas o cualitativas, los gráficos de barras o de pastel son herramientas efectivas para visualizar diferencias o similitudes entre categorías. Funcionan mejor con un número limitado de categorías para evitar desorden y mejorar la interpretación. Si tienes un gran número de categorías, considera agruparlas o resumirlas para mayor claridad. Los gráficos de barras son particularmente útiles para mostrar proporciones o porcentajes dentro de las categorías, ya que las alturas escaladas de las barras facilitan la comparación y proporcionan una visualización clara de la distribución.
+
+En los primeros años de su carrera, Jonsi ayudó en una granja local. La granja tuvo que reducir la producción después de que parte de su ganado se escapara.  
+Para adaptarse, la granja decidió enfocarse únicamente en producir sus tipos de quesos más populares. Jonsi organizó un día de degustación y utilizó gráficos de barras para visualizar la popularidad de cada tipo de queso entre los participantes. Su análisis guió efectivamente la decisión de la granja sobre qué quesos seguir produciendo.

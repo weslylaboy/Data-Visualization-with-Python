@@ -1,0 +1,5 @@
+# Proporciones de un todo
+
+Los gráficos de pastel son más adecuados para mostrar proporciones o porcentajes de un todo. Si el objetivo es enfatizar la contribución individual de cada categoría en lugar de comparar directamente categorías, un gráfico de pastel puede resaltar eficazmente esas proporciones.
+
+Jonsi revisó recientemente sus finanzas personales para ahorrar para unas vacaciones. Utilizó un gráfico de pastel para analizar sus gastos mensuales. Como era de esperar, la mayor parte de su gasto se destinó al alquiler y los comestibles. Sin embargo, se sorprendió por la cantidad considerable gastada en entretenimiento, como juegos y suscripciones a servicios de streaming. Al darse cuenta de que usaba raras veces estos servicios, Jonsi decidió reducir estos gastos, lo que ayudó a avanzar hacia su objetivo de ahorro.

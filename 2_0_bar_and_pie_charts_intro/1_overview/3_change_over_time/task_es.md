@@ -1,0 +1,5 @@
+# Cambios a lo largo del tiempo
+
+Aunque los gráficos de líneas suelen utilizarse para visualizar los cambios de datos a lo largo del tiempo, los gráficos de barras también pueden emplearse si los intervalos de tiempo son discretos y limitados. En tales casos, puedes usar gráficos de barras agrupadas para mostrar los cambios en diferentes categorías en momentos específicos.
+
+Como parte de su plan para ahorrar para unas vacaciones, Jonsi finalmente decidió reducir sus gastos en entretenimiento. Dejó de comprar numerosos juegos durante las ofertas y optó por centrarse en los que ya poseía. También canceló la suscripción a servicios de streaming que rara vez usaba. Después de tres meses, Jonsi creó un gráfico de barras para rastrear sus gastos en estas dos categorías. El gráfico reveló que logró reducir sus gastos con éxito, acercándose a su meta de ahorro.

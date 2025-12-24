@@ -1,0 +1,25 @@
+type: edu
+custom_name: Groups order
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: data.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: example.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: plot.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 23 Dec 2025 03:58:00 UTC"
+record: -1

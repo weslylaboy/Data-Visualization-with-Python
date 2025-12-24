@@ -1,0 +1,38 @@
+type: edu
+custom_name: Scatter plot with relplot
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 162
+        length: 62
+        placeholder_text: " # TODO"
+        initial_state:
+          length: 7
+          offset: 138
+        initialized_from_dependency: false
+        encrypted_possible_answer: oIHeudVPpGqDyHpxpZncW04Q9IPhkVqZNlPFFs6eLtLnlab8sgxU3OOz6im5vqhB2e0uJ2RY+KD3n6uGCN2iqQ==
+        selected: false
+        status: Solved
+        student_answer: " sns.relplot(data=games, x = 'user_score', y = 'critic_score')"
+        is_visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: data.py
+    visible: false
+    learner_created: false
+  - name: example.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: plot.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 19 Dec 2025 22:46:04 UTC"
+record: 1

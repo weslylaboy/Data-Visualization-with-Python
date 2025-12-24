@@ -1,0 +1,25 @@
+type: edu
+custom_name: Line plot with relplot
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: data.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: example.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: plot.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 19 Dec 2025 23:14:36 UTC"
+record: 3
