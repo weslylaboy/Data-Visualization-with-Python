@@ -1,8 +1,7 @@
+import numpy as np
 import pandas as pd
 
 from common.paths import GAMES_DATASET_PATH
-
-pd.options.mode.copy_on_write = True
 
 
 def read() -> pd.DataFrame:
@@ -31,3 +30,21 @@ def preprocess(data: pd.DataFrame) -> pd.DataFrame:
     data["user_score"] = data["user_score"].astype("float")
 
     return data
+
+
+def filter_by_global_sales(data: pd.DataFrame) -> pd.DataFrame:
+    return data[data["global_sales"] <= data["global_sales"].quantile(0.95)]
+
+
+def filter_by_publisher(data: pd.DataFrame, publisher: str) -> pd.DataFrame:
+    return data[data["publisher"] == publisher]
+
+
+def get_bins(data: pd.DataFrame) -> np.ndarray:
+    filtered_data = data[data["publisher"].isin(["Electronic Arts", "Ubisoft"])]
+    filtered_data = filtered_data[filtered_data["global_sales"] <= filtered_data["global_sales"].quantile(0.95)]
+    return np.linspace(filtered_data["global_sales"].min(), filtered_data["global_sales"].max(), num=11)
+
+
+def get_weights(data: pd.DataFrame) -> np.ndarray:
+    return np.ones_like(data["global_sales"]) / data["global_sales"].shape[0]

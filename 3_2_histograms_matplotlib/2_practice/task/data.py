@@ -21,3 +21,7 @@ def get_bins(sales: pd.DataFrame) -> list:
     end = ((sales["sales"].max() // 100) + 1) * 100
 
     return list(range(start, end + 1, 100))
+
+
+def get_median(sales: pd.Series) -> float:
+    return sales.median()
