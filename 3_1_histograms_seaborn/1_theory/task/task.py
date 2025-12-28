@@ -1,11 +1,15 @@
 import pandas as pd
 import seaborn as sns
 
-from data import preprocess, read
+from data import preprocess, read, filter_by_global_sales, filter_by_publisher
 
 
 def plot(games: pd.DataFrame) -> sns.FacetGrid:
-    return  # TODO
+    games = filter_by_publisher(games)
+    games = filter_by_global_sales(games)
+    p = sns.displot(kind='hist', data = games, x = 'global_sales', bins = 10,
+                    hue = games['publisher'], stat='probability', common_norm = False)
+    return p # TODO
 
 
 # Please solve the task in the plot function and do not modify this one

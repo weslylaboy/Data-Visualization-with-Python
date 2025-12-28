@@ -31,3 +31,11 @@ def preprocess(data: pd.DataFrame) -> pd.DataFrame:
     data["user_score"] = data["user_score"].astype("float")
 
     return data
+
+
+def filter_by_global_sales(data: pd.DataFrame) -> pd.DataFrame:
+    return data[data["global_sales"] <= data["global_sales"].quantile(0.95)]
+
+
+def filter_by_publisher(data: pd.DataFrame) -> pd.DataFrame:
+    return data[data["publisher"].isin(["Ubisoft", "Electronic Arts"])]

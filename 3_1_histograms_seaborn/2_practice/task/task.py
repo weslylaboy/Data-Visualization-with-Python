@@ -1,11 +1,16 @@
 import pandas as pd
 import seaborn as sns
 
-from data import read
+from data import read, get_bins
 
 
 def plot(sales: pd.DataFrame) -> sns.FacetGrid:
-    return  # TODO
+    print(sales.head())
+    p = sns.displot(kind='hist', bins=get_bins(sales), data = sales, x = 'sales',
+                    hue='city',
+                    common_norm=False, stat='probability')
+
+    return  p# TODO
 
 
 # Please solve the task in the plot function and do not modify this one
